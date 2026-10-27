@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Firefly III is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://firefly-iii.org/
+Firefly III is an open-source personal finance manager that helps users track expenses, manage budgets, and visualize financial data. It offers features such as multi-currency support, transaction import, reporting, and automated budgeting, aiming to provide a self-hosted alternative to commercial finance tools. The project is community-driven and provides a web interface for managing personal finances securely.
+
+**Areas:** Finance · OpenSource · PersonalFinance · Budgeting · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://firefly-iii.org/)
+- [API reference](https://api-docs.firefly-iii.org/)
+- [Support](https://support.firefly-iii.org/)
+- [Security](https://github.com/firefly-iii/firefly-iii/security)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/firefly-iii/](https://apis.io/providers/firefly-iii/).
